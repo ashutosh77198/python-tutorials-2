@@ -1,0 +1,15 @@
+{
+    "active": true,
+    "age": 24,
+    "balance": 35.8,
+    "friends": [
+        "niraml",
+        "saroj"
+    ],
+    "name": "Ashutosh Verma",
+    "other_names": [
+        "babul",
+        "rahul"
+    ],
+    "spouse": null
+}
